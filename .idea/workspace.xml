@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38093417-7ae9-42b2-be0d-e5a9f902d104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -11,10 +13,10 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DataStructure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DataStructures.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/DataStructures.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -91,38 +94,50 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="94" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1581261201706" />
-    <state x="453" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1580719531216">
+    <state x="453" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1582498103567">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="453" y="134" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1580719531216" />
+    <state x="453" y="134" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1582498103567" />
+    <state x="378" y="47" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582497869047">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="378" y="47" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.777@0.23.1280.777" timestamp="1582497869047" />
     <state x="368" y="156" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581259970982">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="368" y="156" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.777@0.23.1280.777" timestamp="1581259970982" />
-    <state width="1218" height="184" key="GridCell.Tab.0.bottom" timestamp="1581263042382">
+    <state x="168" y="64" key="DBNavigator.ProjectSettingsDialog" timestamp="1582491723637">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1218" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1581263042382" />
-    <state width="1218" height="184" key="GridCell.Tab.0.center" timestamp="1581263042381">
+    <state x="168" y="64" key="DBNavigator.ProjectSettingsDialog/0.23.1280.777@0.23.1280.777" timestamp="1582491723637" />
+    <state width="1218" height="184" key="GridCell.Tab.0.bottom" timestamp="1582500246830">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1218" height="184" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1581263042381" />
-    <state width="1218" height="184" key="GridCell.Tab.0.left" timestamp="1581263042380">
+    <state width="1218" height="184" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1581341200842" />
+    <state width="1218" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1582500246830" />
+    <state width="1218" height="184" key="GridCell.Tab.0.center" timestamp="1582500246829">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1218" height="184" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1581263042380" />
-    <state width="1218" height="184" key="GridCell.Tab.0.right" timestamp="1581263042381">
+    <state width="1218" height="184" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1581341200841" />
+    <state width="1218" height="184" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1582500246829" />
+    <state width="1218" height="184" key="GridCell.Tab.0.left" timestamp="1582500246828">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1218" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1581263042381" />
+    <state width="1218" height="184" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1581341200840" />
+    <state width="1218" height="184" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1582500246828" />
+    <state width="1218" height="184" key="GridCell.Tab.0.right" timestamp="1582500246829">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="184" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1581341200842" />
+    <state width="1218" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1582500246829" />
     <state x="118" y="23" key="SettingsEditor" timestamp="1581259616786">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="118" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1581259616786" />
-    <state x="333" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1580892806883">
+    <state x="333" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1582491529402">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="333" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1580892806883" />
+    <state x="333" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1582491529402" />
     <state x="69" y="26" key="new project wizard" timestamp="1581256476609">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
